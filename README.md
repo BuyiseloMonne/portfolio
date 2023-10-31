@@ -1,7 +1,7 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio  for Software Developers!
 
-> https://BuyiseloMonne.github.io
+> https://buyiselomonne.github.io/portfolio/
 
 ![GitHub stars](https://img.shields.io/github/stars/BuyiseloMonne/BuyiseloMonne.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/BuyiseloMonne/BuyiseloMonne.github.io)
@@ -13,7 +13,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://BuyiseloMonne.github.io" target="_blank"><img src="examples/preview.gif">
+    <a href="https://buyiselomonne.github.io/portfolio/" target="_blank"><img src="examples/preview.gif">
   </a>
   </kbd>
 </p>
@@ -43,7 +43,7 @@
 ✔️ Contact Info\
 ✔️ Resume
 
-To view a live example, **[click here](https://BuyiseloMonne.github.io/)**
+To view a live example, **[click here](https://buyiselomonne.github.io/portfolio/)**
 
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
