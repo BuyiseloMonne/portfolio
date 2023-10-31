@@ -13,7 +13,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://buyiselomonne.github.io/portfolio/" target="_blank"><img src="examples/preview.gif">
+    <a href="https://buyiselomonne.github.io/portfolio/" target="_blank"><img src="examples/preview.mp4">
   </a>
   </kbd>
 </p>
